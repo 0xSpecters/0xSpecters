@@ -9,8 +9,8 @@
 
 ## 🌙 About Me
 
-I'm currently doing **Full-stack Web Development** at [**Scrimba**](https://scrimba.com/ashrafulsohan1). <br/>
-Looking to network and showcase work. Visit my [portfolio website](iamsohan.netlify.app). <br/>
+I'm currently doing **Practical Deep Learning For Coders** at [**Fast.ai**](https://course.fast.ai). <br/>
+Looking to network and showcase work. Visit my [portfolio website](https://iamsohan.netlify.app). <br/>
 **2026 Goal:** Contribute more to open source and build a stronger portfolio. (MSc admission too?) <br/>
 
 **Interests:** AI · Cybersecurity · Gadgets · Programming · Historical & Wildlife Documentaries · Cats . Cultures . Psychology 
@@ -32,9 +32,9 @@ Looking to network and showcase work. Visit my [portfolio website](iamsohan.netl
 
 |Project|What It Does|Stack|
 |---|---|---|
-|[Tomato Leaf Disease Detection](https://github.com/0xSpecters/tomato-leaf-disease-detection)|Image classification pipeline with preprocessing, augmentation, MobileNetV2, evaluation & model export|![Python](https://skillicons.dev/icons?i=python) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)|
+|[Tomato Leaf Disease Detection](https://github.com/0xSpecters/tomato-leaf-disease-detection)|Image classification pipeline with preprocessing, augmentation, MobileNetV2, evaluation & model export|![Python](https://skillicons.dev/icons?i=python) ![Pytorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)|
 |[endec](https://github.com/0xSpecters/endec)|Python desktop encryption/decryption tool — Caesar & Vigenère ciphers with Tkinter GUI|![Python](https://skillicons.dev/icons?i=python)|
-|[Computer Graphics Simulation](https://github.com/0xSpecters)|Interactive Pygame scene — day/night switching, 2D transforms, rotating windmill|![Python](https://skillicons.dev/icons?i=python) ![Pygame](https://img.shields.io/badge/Pygame-1f2937?style=flat&logo=python&logoColor=22d3ee)|
+|[Bengali Handwritten Text Dataset](https://github.com/0xSpecters/bengali-handwritten-text-dataset)|A small curated dataset on Bengali handwritten text for vision language model (vlm) training|![Python](https://skillicons.dev/icons?i=python) ![Pytorch](https://img.shields.io/badge/Pytorch-1f2937?style=flat&logo=python&logoColor=22d3ee)|
 
 ---
 
