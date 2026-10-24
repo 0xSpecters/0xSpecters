@@ -3,7 +3,7 @@
  <h3>Aspiring Cyber Professional | AI Engineer</h3>
 </div>
 
- <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Training+my+skills+like+an+anime+arc;Learning+Security%2B+Concepts+%26+PyTorch;Building+with+code%2C+curiosity%2C+and+controlled+chaos;2026+Goal%3A+contribute+more+to+open+source"/> <br/> <img src="https://komarev.com/ghpvc/?username=ashrafulsohan1&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/> <img src="https://img.shields.io/github/followers/ashrafulsohan1?style=for-the-badge&logo=github&label=Followers&color=06b6d4"/> <img src="https://img.shields.io/github/stars/ashrafulsohan1?style=for-the-badge&logo=github&label=Stars&color=f43f5e"/> </div>
+ <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Training+my+skills+like+an+anime+arc;Learning+Security%2B+Concepts+%26+PyTorch;Building+with+code%2C+curiosity%2C+and+controlled+chaos;2026+Goal%3A+contribute+more+to+open+source"/> <br/> <img src="https://komarev.com/ghpvc/?username=0xSpecters&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/> <img src="https://img.shields.io/github/followers/0xSpecters?style=for-the-badge&logo=github&label=Followers&color=06b6d4"/> <img src="https://img.shields.io/github/stars/0xSpecters?style=for-the-badge&logo=github&label=Stars&color=f43f5e"/> </div>
 
 ---
 
@@ -24,7 +24,7 @@ Looking to network and showcase work. Visit my [portfolio website](iamsohan.netl
 ## 📊 Stats & Streak 
 
 <div align="center"> <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=0xSpecters&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=ashrafulsohan1&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak"/> </div>
+<img height="170" src="https://streak-stats.demolab.com?user=0xSpecters&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak"/> </div>
 
 ---
 
