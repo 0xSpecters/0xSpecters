@@ -10,7 +10,7 @@
 ## 🌙 About Me
 
 I'm currently doing **Full-stack Web Development** at [**Scrimba**](https://scrimba.com/ashrafulsohan1). <br/>
-Looking to network and showcase work. Visit my [portfolio website](ashrafulsohan.github.io). <br/>
+Looking to network and showcase work. Visit my [portfolio website](iamsohan.netlify.app). <br/>
 **2026 Goal:** Contribute more to open source and build a stronger portfolio. (MSc admission too?) <br/>
 
 **Interests:** AI · Cybersecurity · Gadgets · Programming · Historical & Wildlife Documentaries · Cats . Cultures . Psychology 
@@ -23,7 +23,7 @@ Looking to network and showcase work. Visit my [portfolio website](ashrafulsohan
 
 ## 📊 Stats & Streak 
 
-<div align="center"> <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ashrafulsohan1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats"/>
+<div align="center"> <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=0xSpecters&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=ashrafulsohan1&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak"/> </div>
 
 ---
@@ -32,9 +32,9 @@ Looking to network and showcase work. Visit my [portfolio website](ashrafulsohan
 
 |Project|What It Does|Stack|
 |---|---|---|
-|[Tomato Leaf Disease Detection](https://github.com/ashrafulsohan/)|Image classification pipeline with preprocessing, augmentation, MobileNetV2, evaluation & model export|![Python](https://skillicons.dev/icons?i=python) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)|
-|[endec](https://github.com/ashrafulsohan1/endec)|Python desktop encryption/decryption tool — Caesar & Vigenère ciphers with Tkinter GUI|![Python](https://skillicons.dev/icons?i=python)|
-|[Computer Graphics Simulation](https://github.com/ashrafulsohan1)|Interactive Pygame scene — day/night switching, 2D transforms, rotating windmill|![Python](https://skillicons.dev/icons?i=python) ![Pygame](https://img.shields.io/badge/Pygame-1f2937?style=flat&logo=python&logoColor=22d3ee)|
+|[Tomato Leaf Disease Detection](https://github.com/0xSpecters/tomato-leaf-disease-detection)|Image classification pipeline with preprocessing, augmentation, MobileNetV2, evaluation & model export|![Python](https://skillicons.dev/icons?i=python) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)|
+|[endec](https://github.com/0xSpecters/endec)|Python desktop encryption/decryption tool — Caesar & Vigenère ciphers with Tkinter GUI|![Python](https://skillicons.dev/icons?i=python)|
+|[Computer Graphics Simulation](https://github.com/0xSpecters)|Interactive Pygame scene — day/night switching, 2D transforms, rotating windmill|![Python](https://skillicons.dev/icons?i=python) ![Pygame](https://img.shields.io/badge/Pygame-1f2937?style=flat&logo=python&logoColor=22d3ee)|
 
 ---
 
@@ -66,7 +66,7 @@ Looking to network and showcase work. Visit my [portfolio website](ashrafulsohan
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashrafulsohan1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages"/>
+<img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xSpecters&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages"/>
 
 </div>
 
@@ -77,7 +77,7 @@ Looking to network and showcase work. Visit my [portfolio website](ashrafulsohan
 
 <div align="center">
 
-<a href="https://facebook.com/pencilic"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://linkedin.com/in/ashrafulsohan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/ashrafulsohan_1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:ashrafulsohan37@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://patreon.com/pencilic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+<a href="https://facebook.com/0xSpecters"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://linkedin.com/in/ashrafulsohan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/0xSpecters"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:ashrafulsohan37@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://patreon.com/pencilic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 
 </div>
 
